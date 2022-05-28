@@ -3,7 +3,9 @@ html, body{
 }
 
 #game{
-    background: red;
-    height: 100%;
+    width: 500px;
+    height: 200px;
+    border: 1px solid black;
+    margin: auto;
         
 }
